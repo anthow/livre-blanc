@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "Comment définir son projet eshop"
 date: 2021-04-08T11:58:56+02:00
 ---
 
-# comment définir son projet eshop
+# Comment définir son projet eshop
 Le mardi 23 mars nous avons participé à une conférence sur la création d'un eshop organisé par **le comptoir des ressources créatives de verviers**. Dans le cadre de cet événement nous avons créés quelques documents vous permettant de **définir efficacement votre projet d'eshop**.  
 
 Vous y trouverez:  
