@@ -2,7 +2,8 @@ body{
     /*background-color:#91acbf;*/
     background-color:#162c4a;
     /*color:#162c4a;*/
-    color:#91acbf;
+    /* color:#91acbf; */
+	color:#d6e9f6;
     font-family: sans-serif;
     display: flex;
     flex-direction: column;
