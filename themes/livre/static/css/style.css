@@ -1,6 +1,8 @@
 body{
-    background-color:#91acbf;
-    color:#162c4a;
+    /*background-color:#91acbf;*/
+    background-color:#162c4a;
+    /*color:#162c4a;*/
+    color:#91acbf;
     font-family: sans-serif;
     display: flex;
     flex-direction: column;
