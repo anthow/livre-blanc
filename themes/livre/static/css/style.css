@@ -3,12 +3,12 @@ body{
     background-color:#162c4a;
     /*color:#162c4a;*/
     /* color:#91acbf; */
-	color:#e3edf4;
+	color:#d2e9f9;
     font-family: sans-serif;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-	line-height: 115%;
+	line-height: 125%;
     align-items:center;
     justify-content: center;
 }
