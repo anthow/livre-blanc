@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "fr"
+title = "Téléchargement: comment définir son eshop"
+theme = "livre"
+
+[params]
+    description = "Téléchargement: comment définir son projet eshop"
+    logoImage = "/images/logo-sirius.png"
+
+[[menu.footer]]
+  name = "confidentialité"
+  url = "/Confidentialite"

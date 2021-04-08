@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="container">
+    <div class="section">
+        <div class="content">
+            {{ .Content }}
+        
+            <form class="mail-form">
+                <input type="email"  name="email" placeholder="votre adresse mail">
+                <input type="submit" value="envoyer" name="envoyer" />
+            </form>
+        </div>
+    </div>
+</div>
+{{ end }}
