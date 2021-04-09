@@ -63,6 +63,10 @@ form.mail-form input[type = submit]{
 }
 
 
+.sib-form-block__button{
+    background-color:  #eb6608 ;
+}
+
 footer{
     padding-top: 1em;
     padding-bottom: 1em;
